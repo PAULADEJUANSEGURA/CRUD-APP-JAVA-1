@@ -4,10 +4,41 @@
     padding: 0px;
 }
 
+.main-content {
+    margin: 0px;
+    margin-top: 45px;
+}
+
 .logo {
     background-color: #9A3B3B;
 }
 
 .bg-modified {
     background-color: #C08261;
+}
+
+.padding-modified {
+    padding: 20px;
+}
+
+.carousel-modified {
+    margin: 0px auto;
+    width: 450px;
+    height: 450px;
+}
+
+.flexbox-container-modified {
+    display:flex;
+    justify-content: space-around;
+    }
+
+.cards-modified {
+    margin-top: 45px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 25px;
+}
+
+.card-width-modified {
+    width: 650px;
 }
