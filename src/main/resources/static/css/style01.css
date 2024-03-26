@@ -4,6 +4,10 @@
     padding: 0px;
 }
 
-header {
+.logo {
     background-color: #9A3B3B;
+}
+
+.bg-modified {
+    background-color: #C08261;
 }
